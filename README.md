@@ -6,7 +6,6 @@
 
 <div align='center'>
   <a href="https://beacons.ai/lukeberrypi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukeberrypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeberrypi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -16,6 +15,7 @@
   <img align="center" alt="Luke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luke-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Luke-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 ##
