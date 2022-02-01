@@ -3,7 +3,7 @@
 - 🔭 Working with Python, HTML & CSS
 - 🌱 Learning JavaScript & React
 - ⚡ I'm also a musician! 
-- 🎙️ Check it out on <a href="beacons.ai/lukeberrypi">beacons.ai</a>
+- 🎙️ Check it out on <a href="beacons.ai/lukeberrypi">my beacons.ai</a>
 
 <div align='center'>
   <a href="https://beacons.ai/lukeberrypi">
