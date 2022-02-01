@@ -2,7 +2,8 @@
 
 - 🔭 Working with Python, HTML & CSS
 - 🌱 Learning JavaScript & React
-- ⚡ I'm also a musician!
+- ⚡ I'm also a musician! 
+- 🎙️ Check it out on beacons.ai/lukeberrypi
 
 <div align='center'>
   <a href="https://beacons.ai/lukeberrypi">
