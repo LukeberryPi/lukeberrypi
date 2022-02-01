@@ -7,8 +7,8 @@
 
 
 <div display='inline-block' align='center'>
-  <img height="180em" width='400px' src="https://github-readme-stats.vercel.app/api?username=lukeberrypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='400px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeberrypi&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width='420px' src="https://github-readme-stats.vercel.app/api?username=lukeberrypi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='420px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeberrypi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
