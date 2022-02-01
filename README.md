@@ -1,7 +1,7 @@
 ## Hey, I'm Luke Berry!
 
 - 🔭 Working with Python, HTML & CSS
-- 🌱 Learning JavaScript & React
+- 🌱 Learning MySQL, JavaScript & React
 - ⚡ I'm also a musician! 
 - 🎙️ Check it out on <a href="beacons.ai/lukeberrypi">my beacons.ai</a>
 
