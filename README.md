@@ -7,7 +7,6 @@
 
 
 <div align='center'>
-  <a href="https://beacons.ai/lukeberrypi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeberrypi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
